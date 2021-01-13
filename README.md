@@ -15,7 +15,7 @@ I'm a highschool student and am interested in CS, engineering, gamedev, art, and
 I have published 2 indie game apps to IOS and Android and created/creating many websites. I program mostly in Python, PHP, and JS. 
 I also am very passionte about 3D printing and love cars!
 
-- 🔭 I’m currently creating games and websites!
+- 🔭 I’m currently creating indie games and websites!
 - 🌱 I’m currently learning venture capital and more coding and open to learning more!
 - 👯 I’m looking to collaborate with awesome people!
 - 📫 How to reach me: philipstudentemail@gmail.com
