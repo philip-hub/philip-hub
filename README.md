@@ -18,7 +18,7 @@ I also am very passionte about 3D printing and love cars!
 - 🔭 I’m currently creating games and websites!
 - 🌱 I’m currently learning venture capital and more coding and open to learning more!
 - 👯 I’m looking to collaborate with awesome people!
-- 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
+- Also connect with me on [linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
 <!--![alt text](https://raw.githubusercontent.com/philip-hub/philip-hub/main/sleeping.png)
 -->
