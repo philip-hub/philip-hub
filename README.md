@@ -20,5 +20,8 @@ I also am very passionte about 3D printing and love cars!
 - 👯 I’m looking to collaborate with awesome people!
 - 📫 How to reach me: philipstudentemail@gmail.com
 - Also connect with me on [linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
+- [Twitter](https://twitter.com/thephilippounds)
+- [Instagram](https://www.instagram.com/blackholefalling/)
+- [IOS APPS](https://apps.apple.com/us/developer/stanley-pounds/id1493462287)
 <!--![alt text](https://raw.githubusercontent.com/philip-hub/philip-hub/main/sleeping.png)
 -->
