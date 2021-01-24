@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently creating games and websites!
-- 🌱 I’m currently learning venture capital and more coding!
+- 🔭 I’m currently creating indie games and websites!
+- 🌱 I’m continuing learn venture capital and more coding!
 - 👯 I’m looking to collaborate with awesome people!
 - 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
