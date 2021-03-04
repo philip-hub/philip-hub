@@ -16,7 +16,7 @@ I have published 2 indie game apps to IOS and Android and created/creating many 
 I also am very passionte about 3D printing and I love cars!
 
 - 🔭 I’m currently creating indie games and websites!
-- 🌱 I’m continuing learn venture capital and more coding!
+- 🌱 I’m continuing learn venture capital and data science!
 - 👯 I’m looking to collaborate with awesome people!
 - 📫 Email me: philipstudentemail@gmail.com
 - [linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
