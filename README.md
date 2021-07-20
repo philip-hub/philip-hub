@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
 -->
-I'm a highschool Junior and am interested in Computer science, engineering, art, and economics!
-I have published 2 indie game apps to IOS and Android and created/creating many websites. I program mostly in Python, PHP, and JS. 
+I'm a highschool Senior and am interested in Computer science, engineering, art, and economics!
+I have published 2 indie game apps to IOS and Android, created/creating many websites, and I have done a lot of data science projects. I program mostly in Python, PHP, and JS. 
 I also am very passionte about 3D printing and I love cars!
 
 - 🔭 I’m currently creating indie games and websites!
