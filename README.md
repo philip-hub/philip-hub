@@ -11,15 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
 -->
-I'm a highschool Senior and am interested in Computer science, engineering, art, and economics!
-I have published 2 indie game apps to IOS and Android, created/creating many websites, and I have done a lot of data science projects. I program mostly in Python, PHP, and JS. 
+I'm a mechanical engineering freshman at Rose-Hulman Institute of Technology and am interested in engineering, computational science, art, and economics!
+I have published 2 indie game apps to IOS and Android, created/creating many websites, and I have done a lot of data science projects. I program mostly in Python!
 I also am very passionte about 3D printing and I love cars!
 
 - 🔭 I’m currently creating indie games and websites!
 - 🌱 I’m continuing learn venture capital, data science, and engineering!
 - 👯 I’m looking to collaborate with awesome people and for enthusiastic learners to join http://memphishack.com!
-- 📫 Email me: philipstudentemail@gmail.com
-- [Connect on linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
+- 📫 Email me: poundspb@rose-hulman.edu
+- - [Connect on linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
 - [Follow on Twitter](https://twitter.com/thephilippounds)
 - [Follow Instagram](https://www.instagram.com/blackholefalling/)
 - [Downlaod IOS APPS](https://apps.apple.com/us/developer/stanley-pounds/id1493462287)
