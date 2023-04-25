@@ -22,7 +22,7 @@ I also am very passionte about 3D printing and I love cars!
 - [Connect on linkedin](https://www.linkedin.com/in/philip-pounds-4ab746188/)
 - [Follow on Twitter](https://twitter.com/thephilippounds)
 - [Follow Instagram](https://www.instagram.com/blackholefalling/)
-- [Downlaod IOS APPS](https://apps.apple.com/us/developer/stanley-pounds/id1493462287)
+- [Download IOS APPS](https://apps.apple.com/us/developer/stanley-pounds/id1493462287)
 - [Download Android APPS](https://play.google.com/store/apps/dev?id=5316371718143533186)
 <!--![alt text](https://raw.githubusercontent.com/philip-hub/philip-hub/main/sleeping.png)
 -->
