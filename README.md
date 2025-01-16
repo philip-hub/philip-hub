@@ -11,11 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
 -->
-I'm a mechanical engineering freshman at Rose-Hulman Institute of Technology and am interested in engineering, computational science, art, and economics!
-I have published 2 indie game apps to IOS and Android, created/creating many websites, and I have done a lot of data science projects. I program mostly in Python!
-I also am very passionte about 3D printing and I love cars!
+I'm a mechanical engineering junior at Rose-Hulman Institute of Technology and am interested in sustainable transportation and AI usage in engineering and finance!!
+I have published 2 indie game apps to IOS and Android, created many websites. I program mostly in Python and Javascript!
 
-- 🔭 I’m currently creating indie games and websites!
+- 🔭 I’m currently AI models and websites!
 - 🌱 I’m continuing learn venture capital, data science, and engineering!
 - 👯 I’m looking to collaborate with awesome people and for enthusiastic learners to join http://memphishack.com!
 - 📫 Email me: poundspb@rose-hulman.edu
