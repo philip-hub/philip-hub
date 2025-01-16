@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help solve hard problems
 - 📫 How to reach me: philipstudentemail@gmail.com
 -->
-I'm a mechanical engineering junior at Rose-Hulman Institute of Technology and am interested in sustainable transportation and AI usage in engineering and finance!!
+I'm a mechanical engineering junior at Rose-Hulman Institute of Technology and am interested in sustainable transportation and AI usage in engineering and finance! 
 I have published 2 indie game apps to IOS and Android, created many websites. I program mostly in Python and Javascript!
 
 - 🔭 I’m currently AI models and websites!
